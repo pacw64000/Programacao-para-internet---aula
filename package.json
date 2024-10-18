@@ -1,0 +1,24 @@
+{
+  "name": "projetoaulaaovivo1ppi",
+  "version": "1.0.0",
+  "description": "Primeiros passos para desenvolvimento de aplicação web com Node/JS",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rfsgoncalves/ProjetoAulaAoVivo1PPI.git"
+  },
+  "author": "Renato Gonçalves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rfsgoncalves/ProjetoAulaAoVivo1PPI/issues"
+  },
+  "homepage": "https://github.com/rfsgoncalves/ProjetoAulaAoVivo1PPI#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
