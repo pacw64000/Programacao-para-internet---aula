@@ -1,23 +1,23 @@
 {
-  "name": "projetoaulaaovivo1ppi",
+  "name": "programacao-para-internet---aula",
   "version": "1.0.0",
-  "description": "Primeiros passos para desenvolvimento de aplicação web com Node/JS",
+  "description": "Primeiro projeto com Node/JS",
   "main": "index.js",
-  "type":"module",
+  "type": "module",
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rfsgoncalves/ProjetoAulaAoVivo1PPI.git"
+    "url": "git+https://github.com/pacw64000/Programacao-para-internet---aula.git"
   },
-  "author": "Renato Gonçalves",
+  "author": "Anderson Garrido",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rfsgoncalves/ProjetoAulaAoVivo1PPI/issues"
+    "url": "https://github.com/pacw64000/Programacao-para-internet---aula/issues"
   },
-  "homepage": "https://github.com/rfsgoncalves/ProjetoAulaAoVivo1PPI#readme",
+  "homepage": "https://github.com/pacw64000/Programacao-para-internet---aula#readme",
   "dependencies": {
     "express": "^4.21.1"
   }
