@@ -1,7 +1,7 @@
 {
-  "name": "programacao-para-internet---aula",
+  "name": "projetoaulaaovivo3ppi",
   "version": "1.0.0",
-  "description": "Primeiro projeto com Node/JS",
+  "description": "",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -10,15 +10,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pacw64000/Programacao-para-internet---aula.git"
+    "url": "git+https://github.com/rfsgoncalves/ProjetoAulaAoVivo3PPI.git"
   },
-  "author": "Anderson Garrido",
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pacw64000/Programacao-para-internet---aula/issues"
+    "url": "https://github.com/rfsgoncalves/ProjetoAulaAoVivo3PPI/issues"
   },
-  "homepage": "https://github.com/pacw64000/Programacao-para-internet---aula#readme",
+  "homepage": "https://github.com/rfsgoncalves/ProjetoAulaAoVivo3PPI#readme",
   "dependencies": {
-    "express": "^4.21.1"
+    "cookie-parser": "^1.4.7",
+    "express": "^4.21.1",
+    "express-session": "^1.18.1",
+    "nodemon": "^3.1.7"
   }
 }
