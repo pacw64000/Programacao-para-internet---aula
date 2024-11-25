@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rfsgoncalves/ProjetoAulaAoVivo3PPI.git"
+    "url": "git+https://github.com/pacw64000/Programacao-para-internet---aula.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rfsgoncalves/ProjetoAulaAoVivo3PPI/issues"
+    "url": "https://github.com/pacw64000/Programacao-para-internet---aula/issues"
   },
-  "homepage": "https://github.com/rfsgoncalves/ProjetoAulaAoVivo3PPI#readme",
+  "homepage": "https://github.com/pacw64000/Programacao-para-internet---aula#readme",
   "dependencies": {
     "cookie-parser": "^1.4.7",
     "express": "^4.21.1",
